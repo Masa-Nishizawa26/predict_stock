@@ -8,5 +8,5 @@ plotly
 scikit-learn
 scipy
 sklearn
-treamlit
+streamlit
 yfinance
